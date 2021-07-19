@@ -1,0 +1,677 @@
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+
+        margin: auto;
+        width:100%;
+    }
+    .all_body_part{}
+    .header-up{}
+    .header-up-left{}
+    .header-up-left h3{}
+    .header-up-left h3 a{}
+    .header-up-right{}
+    .header-up-right ul{}
+    .header-up-right ul li{}
+    .header-up-right ul li a{}
+    .header-down{}
+    .logo_part{}
+    .logo_part h1{}
+    .logo_part h1 span{}
+    .menu-part{}
+    .menu-part nav{}
+    .menu-part nav ul{}
+    .menu-part nav ul li{}
+    .menu-part nav ul li a{}
+    .icon-part{}
+    .shach{}
+    .shach i{}
+    .cart i{}
+    .love i{}
+    .landing-one{}
+    .landing-page{}
+    .landing-content{}
+    .landing-content h5{}
+    .landing-content h1{}
+    .all-button{}
+    .fetured-product{}
+    .featured-head{}
+    .all_heading{}
+    .featured-contain{}
+    .fetured-product-card{}
+    .fetured-product-card img{}
+    .fetured-product-card p{}
+    .star-symbol{}
+    .star-symbol p{}
+    
+    .second_landing-page{}
+    .landingpages-contain{}
+    .landingpages-contain h1{}
+    .landingpages-contain p{}
+    .all-button{}
+    .most-popular-pars{}
+    
+    .all-heading{}
+    
+    .werp-mpp{}
+    .popular-item{}
+    .popular-item img{}
+    .popular-item h3{}
+    .popular-item p{}
+    .service-part{}
+    .sevice-box-wrep{}
+    .service-box-item{}
+    .service-box-item img{}
+    .service-box-item h2{}
+    .service-box-item p{}
+    .treding-Part{}
+    
+    .trending-card-row-0ne{}
+    .trending-card-item{}
+    .trending-card-item img{}
+    .trending-card-item h3{}
+    .trending-card-item p{}
+    .trending-card-row-two{}
+    .trending-card-item{}
+    .trending-card-item img{}
+    .trending-card-item h3{}
+    .trending-card-item p{}
+    .trending-card-item p{}
+    .journel-silon{}
+    
+    .container{}
+    .bolog-card-1{}
+    .bolog-card-1 img{}
+    .bolog-card-1 p{}
+    .bolog-card-1 h3{}
+    .comments-number{}
+    .comments-number p{}
+    .follow-up{}
+    .grile-pc{}
+    .picture-flex{}
+    .all_footer{}
+    .footer-up{}
+    .about-us{}
+    .footer-head{}
+    .footer-head ul{}
+    .footer-head ul li{}
+    .use-link{}
+    .use-link ul{}
+    .use-link ul li{}
+    .footer-head{}
+    .oneline-shoping{}
+    .oneline-shoping ul{}
+    .oneline-shoping ul li{}
+    .app-socail-link{}
+    .app-link{}
+    .gogle-link{}
+    .gogle-link i{}
+    .gogle-link p{}
+    .gogle-link p span{}
+    .apple-link{}
+    .apple-link i{}
+    .apple-link p span{}
+    .socal-link{}
+    .facebook{}
+    .tweter{}
+    .social-icon{}
+    .pin-star{}
+    .instagram{}
+    .footer-dawon{}
+    .copy-writw{}
+    .copy-writw a{}
+    .{}
+    .{}
+    .{}
+    
+    .price{}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+     
+        margin: auto;
+        width:100%;
+    }
+    .all_body_part{}
+    .header-up{}
+    .header-up-left{}
+    .header-up-left h3{}
+    .header-up-left h3 a{}
+    .header-up-right{}
+    .header-up-right ul{}
+    .header-up-right ul li{}
+    .header-up-right ul li a{}
+    .header-down{}
+    .logo_part{}
+    .logo_part h1{}
+    .logo_part h1 span{}
+    .menu-part{}
+    .menu-part nav{}
+    .menu-part nav ul{}
+    .menu-part nav ul li{}
+    .menu-part nav ul li a{}
+    .icon-part{}
+    .shach{}
+    .shach i{}
+    .cart i{}
+    .love i{}
+    .landing-one{}
+    .landing-page{}
+    .landing-content{}
+    .landing-content h5{}
+    .landing-content h1{}
+    .all-button{}
+    .fetured-product{}
+    .featured-head{}
+    .all_heading{}
+    .featured-contain{}
+    .fetured-product-card{}
+    .fetured-product-card img{}
+    .fetured-product-card p{}
+    .star-symbol{}
+    .star-symbol p{}
+    
+    .second_landing-page{}
+    .landingpages-contain{}
+    .landingpages-contain h1{}
+    .landingpages-contain p{}
+    .all-button{}
+    .most-popular-pars{}
+    
+    .all-heading{}
+    
+    .werp-mpp{}
+    .popular-item{}
+    .popular-item img{}
+    .popular-item h3{}
+    .popular-item p{}
+    .service-part{}
+    .sevice-box-wrep{}
+    .service-box-item{}
+    .service-box-item img{}
+    .service-box-item h2{}
+    .service-box-item p{}
+    .treding-Part{}
+    
+    .trending-card-row-0ne{}
+    .trending-card-item{}
+    .trending-card-item img{}
+    .trending-card-item h3{}
+    .trending-card-item p{}
+    .trending-card-row-two{}
+    .trending-card-item{}
+    .trending-card-item img{}
+    .trending-card-item h3{}
+    .trending-card-item p{}
+    .trending-card-item p{}
+    .journel-silon{}
+    
+    .container{}
+    .bolog-card-1{}
+    .bolog-card-1 img{}
+    .bolog-card-1 p{}
+    .bolog-card-1 h3{}
+    .comments-number{}
+    .comments-number p{}
+    .follow-up{}
+    .grile-pc{}
+    .picture-flex{}
+    .all_footer{}
+    .footer-up{}
+    .about-us{}
+    .footer-head{}
+    .footer-head ul{}
+    .footer-head ul li{}
+    .use-link{}
+    .use-link ul{}
+    .use-link ul li{}
+    .footer-head{}
+    .oneline-shoping{}
+    .oneline-shoping ul{}
+    .oneline-shoping ul li{}
+    .app-socail-link{}
+    .app-link{}
+    .gogle-link{}
+    .gogle-link i{}
+    .gogle-link p{}
+    .gogle-link p span{}
+    .apple-link{}
+    .apple-link i{}
+    .apple-link p span{}
+    .socal-link{}
+    .facebook{}
+    .tweter{}
+    .social-icon{}
+    .pin-star{}
+    .instagram{}
+    .footer-dawon{}
+    .copy-writw{}
+    .copy-writw a{}
+    .{}
+    .{}
+    .{}
+    
+    .price{}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+      
+        margin: auto;
+        width:100%;
+    }
+    .all_body_part{}
+    .header-up{}
+    .header-up-left{}
+    .header-up-left h3{}
+    .header-up-left h3 a{}
+    .header-up-right{}
+    .header-up-right ul{}
+    .header-up-right ul li{}
+    .header-up-right ul li a{}
+    .header-down{}
+    .logo_part{}
+    .logo_part h1{}
+    .logo_part h1 span{}
+    .menu-part{}
+    .menu-part nav{}
+    .menu-part nav ul{}
+    .menu-part nav ul li{}
+    .menu-part nav ul li a{}
+    .icon-part{}
+    .shach{}
+    .shach i{}
+    .cart i{}
+    .love i{}
+    .landing-one{}
+    .landing-page{}
+    .landing-content{}
+    .landing-content h5{}
+    .landing-content h1{}
+    .all-button{}
+    .fetured-product{}
+    .featured-head{}
+    .all_heading{}
+    .featured-contain{}
+    .fetured-product-card{}
+    .fetured-product-card img{}
+    .fetured-product-card p{}
+    .star-symbol{}
+    .star-symbol p{}
+    
+    .second_landing-page{}
+    .landingpages-contain{}
+    .landingpages-contain h1{}
+    .landingpages-contain p{}
+    .all-button{}
+    .most-popular-pars{}
+    
+    .all-heading{}
+    
+    .werp-mpp{}
+    .popular-item{}
+    .popular-item img{}
+    .popular-item h3{}
+    .popular-item p{}
+    .service-part{}
+    .sevice-box-wrep{}
+    .service-box-item{}
+    .service-box-item img{}
+    .service-box-item h2{}
+    .service-box-item p{}
+    .treding-Part{}
+    
+    .trending-card-row-0ne{}
+    .trending-card-item{}
+    .trending-card-item img{}
+    .trending-card-item h3{}
+    .trending-card-item p{}
+    .trending-card-row-two{}
+    .trending-card-item{}
+    .trending-card-item img{}
+    .trending-card-item h3{}
+    .trending-card-item p{}
+    .trending-card-item p{}
+    .journel-silon{}
+    
+    .container{}
+    .bolog-card-1{}
+    .bolog-card-1 img{}
+    .bolog-card-1 p{}
+    .bolog-card-1 h3{}
+    .comments-number{}
+    .comments-number p{}
+    .follow-up{}
+    .grile-pc{}
+    .picture-flex{}
+    .all_footer{}
+    .footer-up{}
+    .about-us{}
+    .footer-head{}
+    .footer-head ul{}
+    .footer-head ul li{}
+    .use-link{}
+    .use-link ul{}
+    .use-link ul li{}
+    .footer-head{}
+    .oneline-shoping{}
+    .oneline-shoping ul{}
+    .oneline-shoping ul li{}
+    .app-socail-link{}
+    .app-link{}
+    .gogle-link{}
+    .gogle-link i{}
+    .gogle-link p{}
+    .gogle-link p span{}
+    .apple-link{}
+    .apple-link i{}
+    .apple-link p span{}
+    .socal-link{}
+    .facebook{}
+    .tweter{}
+    .social-icon{}
+    .pin-star{}
+    .instagram{}
+    .footer-dawon{}
+    .copy-writw{}
+    .copy-writw a{}
+    .{}
+    .{}
+    .{}
+    
+    .price{}
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+      
+        margin: auto;
+        width:100%;
+    }
+    .all_body_part{}
+    .header-up{}
+    .header-up-left{}
+    .header-up-left h3{}
+    .header-up-left h3 a{}
+    .header-up-right{}
+    .header-up-right ul{}
+    .header-up-right ul li{}
+    .header-up-right ul li a{}
+    .header-down{}
+    .logo_part{}
+    .logo_part h1{}
+    .logo_part h1 span{}
+    .menu-part{}
+    .menu-part nav{}
+    .menu-part nav ul{}
+    .menu-part nav ul li{}
+    .menu-part nav ul li a{}
+    .icon-part{}
+    .shach{}
+    .shach i{}
+    .cart i{}
+    .love i{}
+    .landing-one{}
+    .landing-page{}
+    .landing-content{}
+    .landing-content h5{}
+    .landing-content h1{}
+    .all-button{}
+    .fetured-product{}
+    .featured-head{}
+    .all_heading{}
+    .featured-contain{}
+    .fetured-product-card{}
+    .fetured-product-card img{}
+    .fetured-product-card p{}
+    .star-symbol{}
+    .star-symbol p{}
+    
+    .second_landing-page{}
+    .landingpages-contain{}
+    .landingpages-contain h1{}
+    .landingpages-contain p{}
+    .all-button{}
+    .most-popular-pars{}
+    
+    .all-heading{}
+    
+    .werp-mpp{}
+    .popular-item{}
+    .popular-item img{}
+    .popular-item h3{}
+    .popular-item p{}
+    .service-part{}
+    .sevice-box-wrep{}
+    .service-box-item{}
+    .service-box-item img{}
+    .service-box-item h2{}
+    .service-box-item p{}
+    .treding-Part{}
+    
+    .trending-card-row-0ne{}
+    .trending-card-item{}
+    .trending-card-item img{}
+    .trending-card-item h3{}
+    .trending-card-item p{}
+    .trending-card-row-two{}
+    .trending-card-item{}
+    .trending-card-item img{}
+    .trending-card-item h3{}
+    .trending-card-item p{}
+    .trending-card-item p{}
+    .journel-silon{}
+    
+    .container{}
+    .bolog-card-1{}
+    .bolog-card-1 img{}
+    .bolog-card-1 p{}
+    .bolog-card-1 h3{}
+    .comments-number{}
+    .comments-number p{}
+    .follow-up{}
+    .grile-pc{}
+    .picture-flex{}
+    .all_footer{}
+    .footer-up{}
+    .about-us{}
+    .footer-head{}
+    .footer-head ul{}
+    .footer-head ul li{}
+    .use-link{}
+    .use-link ul{}
+    .use-link ul li{}
+    .footer-head{}
+    .oneline-shoping{}
+    .oneline-shoping ul{}
+    .oneline-shoping ul li{}
+    .app-socail-link{}
+    .app-link{}
+    .gogle-link{}
+    .gogle-link i{}
+    .gogle-link p{}
+    .gogle-link p span{}
+    .apple-link{}
+    .apple-link i{}
+    .apple-link p span{}
+    .socal-link{}
+    .facebook{}
+    .tweter{}
+    .social-icon{}
+    .pin-star{}
+    .instagram{}
+    .footer-dawon{}
+    .copy-writw{}
+    .copy-writw a{}
+    .{}
+    .{}
+    .{}
+    
+    .price{}
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  
+    margin: auto;
+    width:1350px;
+}
+.all_body_part{}
+.header-up{}
+.header-up-left{}
+.header-up-left h3{}
+.header-up-left h3 a{}
+.header-up-right{}
+.header-up-right ul{}
+.header-up-right ul li{}
+.header-up-right ul li a{}
+.header-down{}
+.logo_part{}
+.logo_part h1{}
+.logo_part h1 span{}
+.menu-part{}
+.menu-part nav{}
+.menu-part nav ul{}
+.menu-part nav ul li{}
+.menu-part nav ul li a{}
+.icon-part{}
+.shach{}
+.shach i{}
+.cart i{}
+.love i{}
+.landing-one{}
+.landing-page{}
+.landing-content{}
+.landing-content h5{}
+.landing-content h1{}
+.all-button{}
+.fetured-product{}
+.featured-head{}
+.all_heading{}
+.featured-contain{}
+.fetured-product-card{}
+.fetured-product-card img{}
+.fetured-product-card p{}
+.star-symbol{}
+.star-symbol p{}
+
+.second_landing-page{}
+.landingpages-contain{}
+.landingpages-contain h1{}
+.landingpages-contain p{}
+.all-button{}
+.most-popular-pars{}
+
+.all-heading{}
+
+.werp-mpp{}
+.popular-item{}
+.popular-item img{}
+.popular-item h3{}
+.popular-item p{}
+.service-part{}
+.sevice-box-wrep{}
+.service-box-item{}
+.service-box-item img{}
+.service-box-item h2{}
+.service-box-item p{}
+.treding-Part{}
+
+.trending-card-row-0ne{}
+.trending-card-item{}
+.trending-card-item img{}
+.trending-card-item h3{}
+.trending-card-item p{}
+.trending-card-row-two{}
+.trending-card-item{}
+.trending-card-item img{}
+.trending-card-item h3{}
+.trending-card-item p{}
+.trending-card-item p{}
+.journel-silon{}
+
+.container{}
+.bolog-card-1{}
+.bolog-card-1 img{}
+.bolog-card-1 p{}
+.bolog-card-1 h3{}
+.comments-number{}
+.comments-number p{}
+.follow-up{}
+.grile-pc{}
+.picture-flex{}
+.all_footer{}
+.footer-up{}
+.about-us{}
+.footer-head{}
+.footer-head ul{}
+.footer-head ul li{}
+.use-link{}
+.use-link ul{}
+.use-link ul li{}
+.footer-head{}
+.oneline-shoping{}
+.oneline-shoping ul{}
+.oneline-shoping ul li{}
+.app-socail-link{}
+.app-link{}
+.gogle-link{}
+.gogle-link i{}
+.gogle-link p{}
+.gogle-link p span{}
+.apple-link{}
+.apple-link i{}
+.apple-link p span{}
+.socal-link{}
+.facebook{}
+.tweter{}
+.social-icon{}
+.pin-star{}
+.instagram{}
+.footer-dawon{}
+.copy-writw{}
+.copy-writw a{}
+.{}
+.{}
+.{}
+
+.price{}
+
+
+}
