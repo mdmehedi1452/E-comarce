@@ -677,12 +677,57 @@ body{
     transition: 0.5s;
 }
 
-.landing-one{}
-.landing-page{}
-.landing-content{}
-.landing-content h5{}
-.landing-content h1{}
-.all-button{}
+.landing-one{
+    width: 100%;
+    height: 500px;
+   background-image: url(../images/bg-1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+.landing-page{
+  display: inline-flex;
+    text-align: center;
+  
+    width: 100%;
+    height: 100%;
+ 
+}
+.landing-content{
+    margin-top: 133px;
+    margin-left: 147px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.landing-content h5{
+    color: red;
+    font-weight: 600;
+    font-size: 17px;
+}
+.landing-content h1{
+    font-size: 52px;
+    font-weight: 900;
+    font-family: 'Oxygen', sans-serif;
+}
+.img-in-banar0ne{
+    width: 50%;
+    height: 100%;
+}
+.img-in-banar0ne img{
+   width: 100%;
+   height: 100%;
+}
+.all-button{
+    width: 132px;
+    height: 45px;
+    font-size: 17px;
+    font-weight: bold;
+    background: red;
+    border: none;
+}
+.all-button:hover{
+    background-color: transparent;
+    border: 2px solid white;
+}
 .fetured-product{}
 .featured-head{}
 .all_heading{}
