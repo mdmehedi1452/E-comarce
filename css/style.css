@@ -654,7 +654,6 @@ body{
 }
 .menu-part nav ul li a{
     text-transform: uppercase;
-    font-weight: 800;
     text-decoration: none;
     color: black;
 }
@@ -729,26 +728,88 @@ body{
     border: 2px solid white;
 }
 .fetured-product{}
-.featured-head{}
-.all_heading{}
-.featured-contain{}
-.fetured-product-card{}
-.fetured-product-card img{}
-.fetured-product-card p{}
+.featured-head{
+    width: 100%;
+}
+.all_heading{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Rubik', sans-serif;
+    margin: 30px auto;
+}
+.featured-contain{
+    width: 100%;
+    height: auto;
+    display: inline-flex;
+    justify-content: center;
+    
+}
+.fetured-product-card{
+  
+    margin: 27px 21px;
+    width: 360px;
+    text-align: center;
+    height: 517px;
+}
+.fetured-product-card img{
+    width: 100%;
+}
+.fetured-product-card p{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: rgb(175, 166, 166);
+}
 .star-symbol{}
 .star-symbol p{}
 
-.second_landing-page{}
-.landingpages-contain{}
-.landingpages-contain h1{}
-.landingpages-contain p{}
-.all-button{}
-.most-popular-pars{}
+.second_landing-page{
+    margin: 37px auto;
+    display: inline-flex;
+    background: #EAE2D8;
+    width: 100%;
+    height: 370px;
+}
+.second-landing-pages-pic{
+    width: 50%%;
+}
+.second-landing-pages-pic img{
+    width: 100%;
+    margin-left: 42px;
+    height: 100%;
+}
+.landingpages-contain{
+    text-align: center;
+    width: 50%;
+}
+.landingpages-contain button{
+
+}
+.landingpages-contain h1{
+    font-size: 58px;
+    margin-top: 96px;
+    font-family: 'Dancing Script', cursive;
+}
+.landingpages-contain p{
+    font-family: 'Rubik', sans-serif;
+    font-size: 22px;
+    padding: 15px;
+}
+
+.most-popular-pars{
+   width: 100%;
+   height: 510px;
+    }
 
 .all-heading{}
 
-.werp-mpp{}
-.popular-item{}
+.werp-mpp{
+    margin: 0px auto;
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-around;
+}
+.popular-item{
+    text-align: center;
+}
 .popular-item img{}
 .popular-item h3{}
 .popular-item p{}
@@ -818,7 +879,12 @@ body{
 .{}
 .{}
 
-.price{}
+.price{
+    font-weight: 900;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 18px;
+    color: black !important;
+}
 
 
 }
